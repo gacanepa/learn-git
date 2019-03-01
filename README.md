@@ -1,2 +1,3 @@
 # learn-git
 Check out my guide at Pluralsight...
+You can reach me via Twitter at @gacanepa
