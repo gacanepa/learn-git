@@ -1,2 +1,3 @@
 # learn-git
-Check out my Git guide at Pluralsight
+Check out my guide at Pluralsight...
+And their other courses, too!
