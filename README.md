@@ -1,2 +1,2 @@
 # learn-git
-Check out my guide at Pluralsight
+Check out my guide at Pluralsight...
